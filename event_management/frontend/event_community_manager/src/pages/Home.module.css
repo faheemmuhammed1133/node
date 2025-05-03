@@ -1,0 +1,26 @@
+.hContainer
+{
+   padding: 20px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}:link{ text-decoration: black;
+color: black;}
+
+.logo{
+   text-shadow: none;
+   text-decoration: solid;
+   font-size: larger;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.news{
+   width: 80%;
+   height: 40vh;
+   padding: 10px 0px;   
+}
+.events{
+   width: 80%;
+   height: 40vh;
+   padding: 10px 0px;   
+}
